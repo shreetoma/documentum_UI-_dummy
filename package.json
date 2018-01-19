@@ -1,0 +1,28 @@
+{
+  "name": "documentum",
+  "version": "1.6.7",
+  "description": "dummy UI",
+  "main": "logIn.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shreetoma/documentum_UI-_dummy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shreetoma/documentum_UI-_dummy/issues"
+  },
+  "homepage": "https://github.com/shreetoma/documentum_UI-_dummy#readme",
+  "dependencies": {
+    "angular": "^1.6.8",
+    "angular-messages": "^1.6.8",
+    "angular-ui-router": "^1.0.3",
+    "bootstrap": "^4.0.0",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.0",
+    "ngstorage": "^0.3.11"
+  }
+}

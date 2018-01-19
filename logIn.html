@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html ng-app="myApp" >
+
+<head>
+    <title>Log in</title>
+    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <script src="node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="node_modules/font-awesome/css/font-awesome.min.css">
+   
+   <script type="text/javascript" src="node_modules/angular/angular.min.js"></script>
+    <script type="text/javascript" src="node_modules/angular-ui-router/release/angular-ui-router.min.js"></script>
+<script src="node_modules/angular-messages/angular-messages.min.js"></script>
+    <script src="node_modules/ngstorage/ngStorage.min.js"></script>
+    
+    <link rel="stylesheet" type="text/css" href="style/styling.css">
+    <script src="script/scripts.js"></script>
+
+</head>
+    <body>
+        <div class="container-fluid" ng-controller="myController">
+            <div class="row" style="margin-top: 100px;">
+                <div class="col-md-4 "></div>
+                <div class="col-md-4 ">
+                    <div class="well well1-modified">
+                        <div class="row ">
+                            <div class="col-md-2"><img src="assets/images/euroclear-logo.jpg" class="img-responsive logo-modified"></div>
+                            <div class="col-md-6"><h1 class="heading1">Documentum</h1></div>
+                        </div>
+                        <form name="myForm" novalidate>
+                        <div class="row">
+                            
+                                <div class="col-md-4 form-group"><strong>User name:</strong></div>
+                                <div class="col-md-7 form-group"><input type="text" class="form-control" name="userName" ng-model="user" required>
+                                    <div ng-messages="myForm.userName.$error">
+    
+                                        <div ng-message="required" ng-show="myForm.userName.$touched">This field is required</div></div>
+                            </div>
+                           
+                        </div>
+                             <div class="row">
+                            
+                                <div class="col-md-4 form-group"><strong>Password:</strong></div>
+                                <div class="col-md-7 form-group"><input type="password" class="form-control" name="password"ng-model="pwd" required >
+                                   <div ng-messages="myForm.password.$error">
+    
+                                        <div ng-message="required" ng-show="myForm.password.$touched">This field is required</div></div>
+                           </div>
+                        </div>
+                             <div class="row">
+                            
+                                <div class="col-md-4 form-group"><strong>Language:</strong></div>
+                                <div class="col-md-7 form-group">
+                                    <select name="language" class="form-control">
+                                    <option value="full time">English(United States)</option>
+                                    <option value="voluntary">French</option>
+                                    <option value="self">Polish</option>
+                                </select></div>
+                           
+                        </div>
+                            <div class="row">
+                                <div class="col-md-10"></div>
+                                <div class="col-md-2">
+                            <button type="button" class="btn btn-info sign-button pull-right" ng-click="signIn()" ng-disabled="myForm.$invalid">Sign In</button></div>
+                                </div>
+                             </form>
+                    </div>
+                </div>
+                <div class="col-md-4"></div>
+            </div>
+        </div>
+    </body>
+</html>

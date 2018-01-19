@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html ng-app="myApp" >
+
+<head>
+    <title>Log in</title>
+    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <script src="node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="node_modules/font-awesome/css/font-awesome.min.css">
+   
+   <script type="text/javascript" src="node_modules/angular/angular.min.js"></script>
+    <script type="text/javascript" src="node_modules/angular-ui-router/release/angular-ui-router.min.js"></script>
+<script src="node_modules/angular-messages/angular-messages.min.js"></script>
+    <script src="node_modules/ngstorage/ngStorage.min.js"></script>
+    
+    <link rel="stylesheet" type="text/css" href="style/styling.css">
+    <script src="script/scripts.js"></script>
+
+</head>
+    <body>
+        <div class="container-fluid" ng-controller="myController">
+<form name="myForm" novalidate>
+  
+  <h1>Documentum</h1>
+  <input class="user" type="text" placeholder="username" name="userName" ng-model="user" required/>
+    <div ng-messages="myForm.userName.$error">
+    
+                                        <div ng-message="required" ng-show="myForm.userName.$touched">This field is required</div></div>
+                        
+    
+  <input class="pass" type="password" placeholder="password" name="password" ng-model="pwd" required/>
+    <div ng-messages="myForm.password.$error">
+    
+                                        <div ng-message="required" ng-show="myForm.password.$touched">This field is required</div></div>
+                          
+                        
+            
+    <div class="row">
+                            
+                               
+                                <div class="col-md-12 form-group">
+                                    <select name="language" class="form-control">
+                                    <option value="full time">English(United States)</option>
+                                    <option value="voluntary">French</option>
+                                    <option value="self">Polish</option>
+                                </select></div>
+                           
+                        </div>
+  <input class="btn"  type="submit" value="SIGN IN" ng-click="signIn()" ng-disabled="myForm.$invalid"/>
+  
+  <hr style="background-color : #bebebe;"/>
+  <hr style="background-color : #FFF; "/>
+  
+
+  
+<div class="setting">
+    <a class="icon-cog" href="#"></a>
+    <h6  class="set">settings</h6>
+    <div class="middle" style="left : 6px;"></div>
+    <div class="middle" style="left : 18px;"></div>
+    <div class="middle" style="left : 30px;"></div>
+    <div class="middle" style="left : 42px;"></div>
+    <div class="side left"></div>
+    <div class="side right"></div>
+  </div>
+  
+</form>
+        </div>
+        </body>
+</html>
