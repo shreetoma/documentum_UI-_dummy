@@ -4,9 +4,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -14,9 +14,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -24,9 +24,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -35,9 +35,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -46,9 +46,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -57,9 +57,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -68,9 +68,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -79,95 +79,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
-"Comment": "Test"
-
-},
-{
-"Status":"New",
-"Provider":"newissues...",
-"Reception_Date":"08/01/2018",
-"Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
-"Receiver":"ni_documentation",
-"Current User":"T1691059",
-"Comment": "Testing file"
-},
-{
-"Status":"Stored",
-"Provider":"Settlement...",
-"Reception_Date":"03/01/2018",
-"Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
-"Receiver":"ni_documentation",
-"Current User":"T1691057",
-"Comment": "Test"
-},
-{
-"Status":"Stored",
-"Provider":"Settlement...",
-"Reception_Date":"03/01/2018",
-"Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
-"Receiver":"ni_documentation",
-"Current User":"T1691057",
-"Comment": "Test"
-
-},
-{
-"Status":"New",
-"Provider":"Settlement...",
-"Reception_Date":"03/01/2018",
-"Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
-"Receiver":"ni_documentation",
-"Current User":"T1691057",
-"Comment": "Test"
-
-},
-{
-"Status":"Stored",
-"Provider":"Settlement...",
-"Reception_Date":"03/01/2018",
-"Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
-"Receiver":"ni_documentation",
-"Current User":"T1691057",
-"Comment": "Test"
-
-},
-{
-"Status":"New",
-"Provider":"Settlement...",
-"Reception_Date":"03/01/2018",
-"Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
-"Receiver":"ni_documentation",
-"Current User":"T1691057",
-"Comment": "Test"
-
-},
-{
-"Status":"New",
-"Provider":"Settlement...",
-"Reception_Date":"03/01/2018",
-"Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
-"Receiver":"ni_documentation",
-"Current User":"T1691057",
-"Comment": "Test"
-
-},
-{
-"Status":"New",
-"Provider":"Collateral Management...",
-"Reception_Date":"10/01/2018",
-"Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
-"Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -176,9 +90,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -186,9 +100,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -196,9 +110,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -207,9 +121,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -218,9 +132,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -229,9 +143,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -240,9 +154,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -251,9 +165,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -262,9 +176,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -272,9 +186,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -282,9 +196,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -293,9 +207,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -304,9 +218,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -315,9 +229,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -326,9 +240,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -337,9 +251,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -348,9 +262,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -358,9 +272,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -368,9 +282,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -379,9 +293,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -390,9 +304,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -401,9 +315,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -412,9 +326,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -423,9 +337,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -434,9 +348,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -444,9 +358,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -454,9 +368,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -465,9 +379,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -476,9 +390,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -487,9 +401,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -498,9 +412,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -509,9 +423,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -520,9 +434,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -530,9 +444,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -540,9 +454,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -551,9 +465,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -562,9 +476,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -573,9 +487,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -584,9 +498,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -595,9 +509,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -606,9 +520,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -616,9 +530,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -626,9 +540,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -637,9 +551,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -648,9 +562,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -659,9 +573,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -670,9 +584,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -681,9 +595,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -692,9 +606,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -702,9 +616,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -712,9 +626,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -723,9 +637,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -734,9 +648,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -745,9 +659,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -756,9 +670,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -767,9 +681,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -778,9 +692,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -788,9 +702,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -798,9 +712,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -809,9 +723,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -820,9 +734,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -831,9 +745,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -842,9 +756,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -853,9 +767,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -864,9 +778,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -874,9 +788,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -884,9 +798,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -895,9 +809,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -906,9 +820,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -917,9 +831,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -928,9 +842,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -939,9 +853,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -950,9 +864,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -960,9 +874,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -970,9 +884,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -981,9 +895,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -992,9 +906,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1003,9 +917,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1014,9 +928,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1025,9 +939,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -1036,9 +950,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -1046,9 +960,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -1056,9 +970,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1067,9 +981,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1078,9 +992,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1089,9 +1003,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1100,9 +1014,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1111,9 +1025,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -1122,9 +1036,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -1132,9 +1046,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -1142,9 +1056,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1153,9 +1067,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1164,9 +1078,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1175,9 +1089,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1186,9 +1100,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1197,9 +1111,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -1208,9 +1122,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -1218,9 +1132,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -1228,9 +1142,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1239,9 +1153,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1250,9 +1164,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1261,9 +1175,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1272,9 +1186,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1283,9 +1197,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -1294,9 +1208,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -1304,9 +1218,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -1314,9 +1228,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1325,9 +1239,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1336,9 +1250,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1347,9 +1261,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1358,9 +1272,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1369,9 +1283,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -1380,9 +1294,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -1390,9 +1304,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -1400,9 +1314,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1411,9 +1325,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1422,9 +1336,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1433,9 +1347,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1444,9 +1358,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1455,9 +1369,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -1466,9 +1380,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -1476,9 +1390,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -1486,9 +1400,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1497,9 +1411,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1508,9 +1422,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1519,9 +1433,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1530,9 +1444,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1541,9 +1455,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -1552,9 +1466,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -1562,9 +1476,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -1572,9 +1486,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1583,9 +1497,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1594,9 +1508,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1605,9 +1519,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1616,9 +1530,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1627,9 +1541,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -1638,9 +1552,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -1648,9 +1562,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -1658,9 +1572,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1669,9 +1583,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1680,9 +1594,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1691,9 +1605,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1702,9 +1616,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1713,9 +1627,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -1724,9 +1638,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -1734,9 +1648,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -1744,9 +1658,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1755,9 +1669,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1766,9 +1680,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1777,9 +1691,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1788,9 +1702,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1799,9 +1713,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -1810,9 +1724,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -1820,9 +1734,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -1830,9 +1744,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1841,9 +1755,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1852,9 +1766,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1863,9 +1777,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1874,9 +1788,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1885,9 +1799,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -1896,9 +1810,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -1906,9 +1820,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -1916,9 +1830,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1927,9 +1841,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1938,9 +1852,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1949,9 +1863,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1960,9 +1874,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -1971,9 +1885,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -1982,9 +1896,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -1992,9 +1906,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -2002,9 +1916,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2013,9 +1927,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2024,9 +1938,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2035,9 +1949,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2046,9 +1960,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2057,9 +1971,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -2068,9 +1982,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -2078,9 +1992,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -2088,9 +2002,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2099,9 +2013,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2110,9 +2024,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2121,9 +2035,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2132,9 +2046,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2143,9 +2057,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -2154,9 +2068,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -2164,9 +2078,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -2174,9 +2088,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2185,9 +2099,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2196,9 +2110,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2207,9 +2121,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2218,9 +2132,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2229,9 +2143,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -2240,9 +2154,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -2250,9 +2164,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -2260,9 +2174,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2271,9 +2185,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2282,9 +2196,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2293,9 +2207,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2304,9 +2218,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2315,9 +2229,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -2326,9 +2240,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -2336,9 +2250,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -2346,9 +2260,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2357,9 +2271,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2368,9 +2282,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2379,9 +2293,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2390,9 +2304,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2401,9 +2315,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -2412,9 +2326,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -2422,9 +2336,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -2432,9 +2346,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2443,9 +2357,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2454,9 +2368,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2465,9 +2379,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2476,9 +2390,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2487,9 +2401,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -2498,9 +2412,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -2508,9 +2422,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -2518,9 +2432,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2529,9 +2443,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2540,9 +2454,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2551,9 +2465,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2562,9 +2476,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2573,9 +2487,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -2584,9 +2498,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -2594,9 +2508,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -2604,9 +2518,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2615,9 +2529,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2626,9 +2540,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2637,9 +2551,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2648,9 +2562,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2659,9 +2573,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -2670,9 +2584,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -2680,9 +2594,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -2690,9 +2604,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2701,9 +2615,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2712,9 +2626,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2723,9 +2637,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2734,9 +2648,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2745,9 +2659,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -2756,9 +2670,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -2766,9 +2680,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -2776,9 +2690,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2787,9 +2701,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2798,9 +2712,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2809,9 +2723,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2820,9 +2734,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2831,9 +2745,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -2842,9 +2756,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -2852,9 +2766,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -2862,9 +2776,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2873,9 +2787,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2884,9 +2798,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2895,9 +2809,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2906,9 +2820,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2917,9 +2831,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -2928,9 +2842,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -2938,9 +2852,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -2948,9 +2862,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2959,9 +2873,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2970,9 +2884,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2981,9 +2895,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -2992,9 +2906,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3003,9 +2917,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -3014,9 +2928,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -3024,9 +2938,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -3034,9 +2948,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3045,9 +2959,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3056,9 +2970,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3067,9 +2981,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3078,9 +2992,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3089,9 +3003,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -3100,9 +3014,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -3110,9 +3024,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -3120,9 +3034,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3131,9 +3045,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3142,9 +3056,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3153,9 +3067,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3164,9 +3078,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3175,9 +3089,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -3186,9 +3100,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -3196,9 +3110,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -3206,9 +3120,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3217,9 +3131,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3228,9 +3142,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3239,9 +3153,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3250,9 +3164,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3261,9 +3175,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -3272,9 +3186,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -3282,9 +3196,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -3292,9 +3206,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3303,9 +3217,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3314,9 +3228,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3325,9 +3239,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3336,9 +3250,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3347,9 +3261,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -3358,9 +3272,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -3368,9 +3282,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -3378,9 +3292,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3389,9 +3303,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3400,9 +3314,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3411,9 +3325,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3422,9 +3336,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3433,9 +3347,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -3444,9 +3358,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -3454,9 +3368,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -3464,9 +3378,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3475,9 +3389,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3486,9 +3400,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3497,9 +3411,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3508,9 +3422,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3519,9 +3433,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -3530,9 +3444,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -3540,9 +3454,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -3550,9 +3464,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3561,9 +3475,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3572,9 +3486,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3583,9 +3497,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3594,9 +3508,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3605,9 +3519,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -3616,9 +3530,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -3626,9 +3540,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -3636,9 +3550,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3647,9 +3561,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3658,9 +3572,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3669,9 +3583,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3680,9 +3594,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3691,9 +3605,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -3702,9 +3616,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -3712,9 +3626,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -3722,9 +3636,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3733,9 +3647,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3744,9 +3658,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3755,9 +3669,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3766,9 +3680,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3777,9 +3691,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -3788,9 +3702,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -3798,9 +3712,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -3808,9 +3722,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3819,9 +3733,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3830,9 +3744,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3841,9 +3755,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3852,9 +3766,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3863,9 +3777,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -3874,9 +3788,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -3884,9 +3798,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -3894,9 +3808,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3905,9 +3819,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3916,9 +3830,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3927,9 +3841,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3938,9 +3852,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3949,9 +3863,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -3960,9 +3874,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -3970,9 +3884,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -3980,9 +3894,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -3991,9 +3905,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4002,9 +3916,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4013,9 +3927,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4024,9 +3938,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4035,9 +3949,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -4046,9 +3960,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -4056,9 +3970,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -4066,9 +3980,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4077,9 +3991,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4088,9 +4002,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4099,9 +4013,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4110,9 +4024,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4121,9 +4035,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -4132,9 +4046,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -4142,9 +4056,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -4152,9 +4066,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4163,9 +4077,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4174,9 +4088,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4185,9 +4099,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4196,9 +4110,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4207,9 +4121,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -4218,9 +4132,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -4228,9 +4142,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -4238,9 +4152,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4249,9 +4163,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4260,9 +4174,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4271,9 +4185,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4282,9 +4196,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4293,9 +4207,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -4304,9 +4218,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -4314,9 +4228,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -4324,9 +4238,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4335,9 +4249,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4346,9 +4260,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4357,9 +4271,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4368,9 +4282,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4379,9 +4293,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -4390,9 +4304,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -4400,9 +4314,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -4410,9 +4324,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4421,9 +4335,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4432,9 +4346,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4443,9 +4357,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4454,9 +4368,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4465,9 +4379,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -4476,9 +4390,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -4486,9 +4400,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -4496,9 +4410,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4507,9 +4421,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4518,9 +4432,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4529,9 +4443,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4540,9 +4454,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4551,9 +4465,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -4562,9 +4476,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -4572,9 +4486,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -4582,9 +4496,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4593,9 +4507,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4604,9 +4518,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4615,9 +4529,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4626,9 +4540,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4637,9 +4551,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -4648,9 +4562,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -4658,9 +4572,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -4668,9 +4582,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4679,9 +4593,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4690,9 +4604,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4701,9 +4615,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4712,9 +4626,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4723,9 +4637,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -4734,9 +4648,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -4744,9 +4658,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -4754,9 +4668,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4765,9 +4679,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4776,9 +4690,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4787,9 +4701,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4798,9 +4712,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4809,9 +4723,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -4820,9 +4734,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -4830,9 +4744,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -4840,9 +4754,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4851,9 +4765,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4862,9 +4776,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4873,9 +4787,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4884,9 +4798,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4895,9 +4809,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -4906,9 +4820,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -4916,9 +4830,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -4926,9 +4840,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4937,9 +4851,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4948,9 +4862,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4959,9 +4873,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4970,9 +4884,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -4981,9 +4895,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -4992,9 +4906,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -5002,9 +4916,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -5012,9 +4926,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -5023,9 +4937,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -5034,9 +4948,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -5045,9 +4959,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -5056,9 +4970,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -5067,9 +4981,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -5078,9 +4992,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -5088,9 +5002,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -5098,9 +5012,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -5109,9 +5023,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -5120,9 +5034,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -5131,9 +5045,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -5142,9 +5056,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -5153,9 +5067,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -5164,9 +5078,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -5174,9 +5088,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -5184,9 +5098,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -5195,9 +5109,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -5206,9 +5120,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -5217,9 +5131,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -5228,9 +5142,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -5239,9 +5153,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -5250,9 +5164,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -5260,9 +5174,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -5270,9 +5184,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -5281,9 +5195,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -5292,9 +5206,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -5303,9 +5217,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -5314,9 +5228,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -5325,9 +5239,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -5336,9 +5250,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -5346,9 +5260,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -5356,9 +5270,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -5367,9 +5281,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -5378,9 +5292,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -5389,9 +5303,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -5400,9 +5314,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -5411,9 +5325,9 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
@@ -5422,9 +5336,9 @@
 "Provider":"newissues...",
 "Reception_Date":"08/01/2018",
 "Subject":"Fw:ISIN AA0AA0...",
-"From Inbox":"DocImaging",
+"From_Inbox":"DocImaging",
 "Receiver":"ni_documentation",
-"Current User":"T1691059",
+"Current_User":"T1691059",
 "Comment": "Testing file"
 },
 {
@@ -5432,9 +5346,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 },
 {
@@ -5442,9 +5356,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -5453,9 +5367,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -5464,9 +5378,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -5475,9 +5389,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -5486,9 +5400,9 @@
 "Provider":"Settlement...",
 "Reception_Date":"03/01/2018",
 "Subject":"ISIN check AA0AA0...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"ni_documentation",
-"Current User":"T1691057",
+"Current_User":"T1691057",
 "Comment": "Test"
 
 },
@@ -5497,10 +5411,96 @@
 "Provider":"Collateral Management...",
 "Reception_Date":"10/01/2018",
 "Subject":"Sec Info BB screen...",
-"From Inbox":"FAX",
+"From_Inbox":"FAX",
 "Receiver":"Scan",
-"Current User":"T1691056",
+"Current_User":"T1691056",
 "Comment": "Test"
 
 },
+{
+"Status":"New",
+"Provider":"newissues...",
+"Reception_Date":"08/01/2018",
+"Subject":"Fw:ISIN AA0AA0...",
+"From_Inbox":"DocImaging",
+"Receiver":"ni_documentation",
+"Current_User":"T1691059",
+"Comment": "Testing file"
+},
+{
+"Status":"Stored",
+"Provider":"Settlement...",
+"Reception_Date":"03/01/2018",
+"Subject":"ISIN check AA0AA0...",
+"From_Inbox":"FAX",
+"Receiver":"ni_documentation",
+"Current_User":"T1691057",
+"Comment": "Test"
+},
+{
+"Status":"Stored",
+"Provider":"Settlement...",
+"Reception_Date":"03/01/2018",
+"Subject":"ISIN check AA0AA0...",
+"From_Inbox":"FAX",
+"Receiver":"ni_documentation",
+"Current_User":"T1691057",
+"Comment": "Test"
+
+},
+{
+"Status":"New",
+"Provider":"Settlement...",
+"Reception_Date":"03/01/2018",
+"Subject":"ISIN check AA0AA0...",
+"From_Inbox":"FAX",
+"Receiver":"ni_documentation",
+"Current_User":"T1691057",
+"Comment": "Test"
+
+},
+{
+"Status":"Stored",
+"Provider":"Settlement...",
+"Reception_Date":"03/01/2018",
+"Subject":"ISIN check AA0AA0...",
+"From_Inbox":"FAX",
+"Receiver":"ni_documentation",
+"Current_User":"T1691057",
+"Comment": "Test"
+
+},
+{
+"Status":"New",
+"Provider":"Settlement...",
+"Reception_Date":"03/01/2018",
+"Subject":"ISIN check AA0AA0...",
+"From_Inbox":"FAX",
+"Receiver":"ni_documentation",
+"Current_User":"T1691057",
+"Comment": "Test"
+
+},
+{
+"Status":"New",
+"Provider":"Settlement...",
+"Reception_Date":"03/01/2018",
+"Subject":"ISIN check AA0AA0...",
+"From_Inbox":"FAX",
+"Receiver":"ni_documentation",
+"Current_User":"T1691057",
+"Comment": "Test"
+
+},
+{
+"Status":"New",
+"Provider":"Collateral Management...",
+"Reception_Date":"10/01/2018",
+"Subject":"Sec Info BB screen...",
+"From_Inbox":"FAX",
+"Receiver":"Scan",
+"Current_User":"T1691056",
+"Comment": "Test"
+
+}
 ]

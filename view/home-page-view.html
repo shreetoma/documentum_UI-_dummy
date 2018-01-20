@@ -1,0 +1,85 @@
+<div class="container-fluid">
+     <form>
+    <div class="row" style="margin-top: 15px;">
+        <div class="col-md-2">
+            <input  class="radiobutton" type="radio" name="editList" id="task" value="task"/>
+<label class="label-modified" >My Task</label>
+
+<input  class="radiobutton" type="radio" name="editList" id="work" value="work"/>
+<label class="label-modified">Workqueue</label>
+          </div>
+       
+        <div class="col-md-2  dropdown">
+            <select name="ni" class="form-control">
+                                    <option value="">NI-Processing</option>
+                                    <option value="">NI-EBE</option>
+                                    <option value="">NI-Dispatching</option>   
+                                    
+                                </select>
+            
+        </div>
+        <div class="col-md-2"></div>
+        <div class="col-md-1"><i class="fa fa-upload pull-right" style="font-size:30px"><br><h5>Import</h5></i></div>
+        <div class="col-md-1"><i class="fa fa-download pull-right" style="font-size:30px"><br><h5>Download</h5></i></div>
+        <div class="col-md-1"><i class="fa fa-server pull-right" style="font-size:30px"><br><h5>Show URL</h5></i></div>
+        <div class="col-md-1"><i class="fa fa-check-square pull-right" style="font-size:30px"><br><h5>Show Filter</h5></i></div>
+        <div class="col-md-1"><i class="fa fa-user pull-right" style="font-size:36px"><br><h5>User Preference</h5></i></div>
+            
+      
+         </div>
+         <div class="row" style="margin-top: 15px;">
+             <div class="col-md-6">
+                 <ul class="list-inline  text-center nav">
+
+                <li class="list-modified2" ><a ui-sref="#"><i class="fa fa-laptop" style="font-size:24px"></i><br>View</a></li>
+                <li class="list-modified2" ><a ui-sref="#"><i class="fa fa-pencil-square-o" style="font-size:24px"></i><br>Edit</a></li>
+                <li class="list-modified2"><a ui-sref="#"><i class="fa fa-address-book" style="font-size:24px"></i><br>View History</a></li>
+                      <li class="list-modified2"><a ui-sref="#"><i class="fa fa-pause" style="font-size:24px"></i><br>Hold</a></li>
+                      <li class="list-modified2"><a ui-sref="#"><i class="fa fa-archive" style="font-size:24px"></i><br>Store</a></li>
+                      <li class="list-modified2"><a ui-sref="#"><i class="fa fa-trash" style="font-size:24px"></i><br>View History</a></li>
+                      <li class="list-modified2"><a ui-sref="#"><i class="fa fa-user" style="font-size:24px"></i><br>Assign</a></li>
+                      <li class="list-modified2"><a ui-sref="#"><i class="fa fa-user-times" style="font-size:24px"></i><br>Unassign</a></li>
+                      <li class="list-modified2"><a ui-sref="#"><i class="fa fa-envelope" style="font-size:24px"></i><br>Dispatch</a></li>
+                 </ul>
+             </div>
+             <div class="col-md-4"></div>
+             <div class="col-md-1"><button type="button" class="btn btn-success btn-lg btn-refresh">Refresh</button></div>
+             <div class="col-md-1"><button type="button" class="btn btn-success btn-lg btn-search">Search</button></div>
+         </div>
+         <div class="row" style="margin-top: 20px;">
+                        <div class="col-md-12 table-responsive table1">
+                  <table class="table table-bordered">
+    <thead>
+      <tr class="info table-heading">
+        <th></th>
+        <th></th>
+        <th>Status</th>
+          <th>Provider</th>
+          <th>Reception Date</th>
+          <th>Subject</th>
+          <th>From Inbox</th>
+          <th>Reciever</th>
+          <th>Current User</th>
+          <th>Comment</th>
+      </tr>
+    </thead>
+                      <tbody>
+                          <tr ng-repeat="data in table" ng-class="$index%2==0 ? 'backgroundcolor2' : 'backgroundcolor1'">
+                              <td><i class="fa fa-edit"></i></td>
+                              <td>1</td>
+                              <td>{{data.Status}}</td>
+                              <td>{{data.Provoder}}</td>
+                              <td>{{data.Reception_Date}}</td>
+                              <td>{{data.Subject}}</td>
+                              <td>{{data.From_Inbox}}</td>
+                              <td>{{data.Reciever}}</td>
+                              <td>{{data.Current_User}}</td>
+                              <td>{{data.Comment}}</td>
+                          </tr>
+                          
+                      </tbody>
+                            </table>
+             </div>
+         </div>
+         </form>
+</div>
