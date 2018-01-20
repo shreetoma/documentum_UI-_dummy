@@ -1,25 +1,71 @@
 <!DOCTYPE html>
 <html ng-app="myApp">
-
-<head>
-    <title>Main Page</title>
-    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
-    <script src="node_modules/jquery/dist/jquery.min.js"></script>
-    <script src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
-    <link rel="stylesheet" href="node_modules/font-awesome/css/font-awesome.min.css">
-   
-   <script type="text/javascript" src="node_modules/angular/angular.min.js"></script>
-    <script type="text/javascript" src="node_modules/angular-ui-router/release/angular-ui-router.min.js"></script>
-<script src="node_modules/angular-messages/angular-messages.min.js"></script>
-     <script src="node_modules/ngstorage/ngStorage.min.js"></script>
+   <head>
+      <title>Main Page</title>
+      <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
+      <script src="node_modules/jquery/dist/jquery.min.js"></script>
+      <script src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+      <link rel="stylesheet" href="node_modules/font-awesome/css/font-awesome.min.css">
+      <script type="text/javascript" src="node_modules/angular/angular.min.js"></script>
+      <script type="text/javascript" src="node_modules/angular-ui-router/release/angular-ui-router.min.js"></script>
+      <script src="node_modules/angular-messages/angular-messages.min.js"></script>
+      <script src="node_modules/ngstorage/ngStorage.min.js"></script>
+      <link rel="stylesheet" type="text/css" href="style/homestyle.css">
+      <script src="script/scripts.js"></script>
+   </head>
+   <body ng-controller="myController2">
     
-    <link rel="stylesheet" type="text/css" href="style/styling.css">
-    <script src="script/scripts.js"></script>
-
-</head>
-    <body>
-        <div ng-controller="myController2">
-        <h2>{{userName}}</h2>
+         <!--<h2>{{userName}}</h2>-->
+         <!--<nav class="navbar navbar-default">
+            <div class="row">
+               <div class="col-md-2">
+                  <img src="assets/images/euroclear-logo.jpg" class="img-responsive modified-image">
+               </div>
+               <div class="col-md-3">
+                  <h1>Documentum</h1>
+               </div>
+               <div class="col-md-1">
+                  <a ui-sref="#"><i class="fa fa-home" style="font-size:24px"></i><br>Home</a>
+               </div>
+               <div class="col-md-1"><a ui-sref="#"><i class="fa fa-bar-chart" style="font-size:24px"></i><br>MI Report</a></div>
+               <div class="col-md-1"><a ui-sref="#"><i class="fa fa-search" style="font-size:24px"></i><br>Advanced Search</a></div>
+               <div class="col-md-1">
+                  <a ui-sref="#" style="padding-top:12px;">
+                     <img src="assets/images/user-icon.png" class="img-circle img-responsive" alt="" width="20" height="20">  <br>
+                     <h5>{{userName}}</h5>
+                  </a>
+               </div>
+               <div class="col-md-3">
+                  <form class="navbar-form pull-right ">
+                     <div class="input-group">
+                        <input type="text" class="form-control" placeholder="Search">
+                        <div class="input-group-btn search">
+                           <button class="btn btn-default" type="submit">
+                           <i class="fa fa-search"></i>
+                           </button>
+                        </div>
+                     </div>
+                  </form>
+               </div>
+            </div>
+         </nav>-->
+       
+       <nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#">WebSiteName</a>
     </div>
-    </body>
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="#">Home</a></li>
+      <li><a href="#">Page 1</a></li>
+      <li><a href="#">Page 2</a></li>
+      <li><a href="#">Page 3</a></li>
+    </ul>
+  </div>
+</nav>
+       
+       
+       
+      
+   </body>
 </html>
