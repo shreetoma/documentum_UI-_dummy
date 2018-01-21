@@ -1,20 +1,53 @@
 var app = angular.module('myApp',['ngStorage','ngMessages','ui.router']);
-app.controller('myController',function($scope,$location, $localStorage){
+app.controller('myController',function($scope,$location, $localStorage,$http){
     $scope.signIn= function(){
+        //myFunction();
+        //alert("hi");
+          $localStorage.uname=$scope.credentials.User;
+           // location.href="/homePage.html";
+      $http({
+        url:'assets/json/credentials.JSON',
+        method:'GET',
+        headers:{'Content-Type':'application/json'}
         
-          $localStorage.uname=$scope.user;
-            location.href="/homePage.html";
-        //$location.url=('/homePage.html');
-            //$cookies.get('element3');
+    })
         
-       
+                .then(function (myData) {
+                   console.log(myData.data);
+          for(var i=0;i<myData.data.length;i++)
+              {
+                  if(myData.data[i].User==$scope.credentials.User && myData.data[i].Password==$scope.credentials.Password ){
+                     location.href="/homePage.html"; 
+                      break;
+                  }
+                  else{
+                      alert("Wrong Credentials");
+                  }
+              }
+          
+                })              
+
     }
+       
+               
         
 })
 app.controller('myController2',function($scope, $localStorage, $window,$http){
    $scope.userName =$localStorage.uname;
-    //alert("hello");
+    if($localStorage.uname==""){
+        location.href="/loginPage.html";
+    }
+    $scope.logOut= function(){
+        $localStorage.uname="";
+        location.href="/loginPage.html" ;
+        
+    }
     
+     $scope.sort = function(keyname){
+        $scope.sortKey = keyname;   //set the sortKey to the param passed
+        $scope.reverse = !$scope.reverse; //if true make it false and vice versa
+    }
+    myFnc();
     function myFnc(){
         
         
@@ -28,11 +61,10 @@ app.controller('myController2',function($scope, $localStorage, $window,$http){
                 .then(function (jsonData) {
                    console.log(jsonData);
         $scope.table=jsonData.data;
-                })
-                
+                })              
 
     }
-    myFnc();
+    
     
     
 })

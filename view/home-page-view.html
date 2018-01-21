@@ -1,7 +1,7 @@
 <div class="container-fluid">
      <form>
     <div class="row" style="margin-top: 15px;">
-        <div class="col-md-2">
+        <div class="col-md-3">
             <input  class="radiobutton" type="radio" name="editList" id="task" value="task"/>
 <label class="label-modified" >My Task</label>
 
@@ -19,60 +19,72 @@
             
         </div>
         <div class="col-md-2"></div>
-        <div class="col-md-1"><i class="fa fa-upload pull-right" style="font-size:30px"><br><h5>Import</h5></i></div>
-        <div class="col-md-1"><i class="fa fa-download pull-right" style="font-size:30px"><br><h5>Download</h5></i></div>
-        <div class="col-md-1"><i class="fa fa-server pull-right" style="font-size:30px"><br><h5>Show URL</h5></i></div>
-        <div class="col-md-1"><i class="fa fa-check-square pull-right" style="font-size:30px"><br><h5>Show Filter</h5></i></div>
-        <div class="col-md-1"><i class="fa fa-user pull-right" style="font-size:36px"><br><h5>User Preference</h5></i></div>
+        <div class="col-md-1"><i class="fa fa-upload pull-right text-center" style="font-size:24px"><br><h6 >Import</h6></i></div>
+        <div class="col-md-1"><i class="fa fa-download pull-right text-center" style="font-size:24px"><br><h6>Download</h6></i></div>
+        <div class="col-md-1"><i class="fa fa-server pull-right text-center" style="font-size:24px"><br><h6>Show URL</h6></i></div>
+        <div class="col-md-1"><i class="fa fa-check-square pull-right text-center" style="font-size:24px"><br><h6>Show Filter</h6></i></div>
+        <div class="col-md-1"><i class="fa fa-user pull-right text-center" style="font-size:24px"><br><h6>Preference</h6></i></div>
             
       
          </div>
          <div class="row" style="margin-top: 15px;">
              <div class="col-md-6">
-                 <ul class="list-inline  text-center nav">
-
-                <li class="list-modified2" ><a ui-sref="#"><i class="fa fa-laptop" style="font-size:24px"></i><br>View</a></li>
-                <li class="list-modified2" ><a ui-sref="#"><i class="fa fa-pencil-square-o" style="font-size:24px"></i><br>Edit</a></li>
-                <li class="list-modified2"><a ui-sref="#"><i class="fa fa-address-book" style="font-size:24px"></i><br>View History</a></li>
-                      <li class="list-modified2"><a ui-sref="#"><i class="fa fa-pause" style="font-size:24px"></i><br>Hold</a></li>
-                      <li class="list-modified2"><a ui-sref="#"><i class="fa fa-archive" style="font-size:24px"></i><br>Store</a></li>
-                      <li class="list-modified2"><a ui-sref="#"><i class="fa fa-trash" style="font-size:24px"></i><br>View History</a></li>
-                      <li class="list-modified2"><a ui-sref="#"><i class="fa fa-user" style="font-size:24px"></i><br>Assign</a></li>
-                      <li class="list-modified2"><a ui-sref="#"><i class="fa fa-user-times" style="font-size:24px"></i><br>Unassign</a></li>
-                      <li class="list-modified2"><a ui-sref="#"><i class="fa fa-envelope" style="font-size:24px"></i><br>Dispatch</a></li>
-                 </ul>
+                <div class="row">
+                    <div class="col-md-1 list-modified-2 "><a ui-sref="#"><i class="fa fa-laptop" style="font-size:24px;padding-left:3px;"></i><br>View</a></div>
+            <div class="col-md-1 list-modified-2"><a ui-sref="#"><i class="fa fa-pencil-square-o" style="font-size:24px;"></i><br>Edit</a></div>
+        <div class="col-md-1 list-modified-2" style="margin-left:-11px;"><a ui-sref="#"><i class="fa fa-address-book" style="font-size:24px;padding-left:8px;"></i><br>History</a></div>
+                     <div class="col-md-1 list-modified-2"><a ui-sref="#"><i class="fa fa-pause" style="font-size:24px;padding-left:4px;"></i><br>Hold</a></div>
+                     <div class="col-md-1 list-modified-2"><a ui-sref="#"><i class="fa fa-archive" style="font-size:24px;padding-left:3px;"></i><br>Store</a></div>
+            <div class="col-md-1 list-modified-2"><a ui-sref="#"><i class="fa fa-trash" style="font-size:24px;padding-left:5px;"></i><br>Trash</a></div>
+                     <div class="col-md-1 list-modified-2"><a ui-sref="#"><i class="fa fa-user" style="font-size:24px;padding-left:9px;"></i><br>Assign</a></div>
+                <div class="col-md-1 list-modified-2"><a ui-sref="#"><i class="fa fa-user-times " style="font-size:25px;padding-left:12px;"></i><br>Unassign</a></div>
+                <div class="col-md-4"></div>
+     <!--<div class="col-md-1 list-modified-2"><a ui-sref="#"><i class="fa fa-envelope" style="font-size:24px"></i><br>Dispatch</a></div>-->
+                 </div> 
              </div>
-             <div class="col-md-4"></div>
-             <div class="col-md-1"><button type="button" class="btn btn-success btn-lg btn-refresh">Refresh</button></div>
-             <div class="col-md-1"><button type="button" class="btn btn-success btn-lg btn-search">Search</button></div>
+             <div class="col-md-3"></div>
+             
+             <div class="col-md-2" style="padding-right:0px">
+                 <form class="navbar-form navbar-left navbar-form">
+                <div class="input-group ">
+                    <input type="text" class="form-control pull-right" placeholder="Search">
+                    <div class="input-group-btn search">
+                        <button class="btn btn-default btn-search pull-right" type="submit">
+           <i class="fa fa-search"></i>
+          </button>
+                    </div>
+                 </div></form>
+             </div>
+             <div class="col-md-1"><button class="btn btn-default btn-search pull-right" type="submit" style="height: 38px;
+    margin-right: 14px;"><i class="fa fa-refresh" style="font-size:24px"></i></button></div>
          </div>
          <div class="row" style="margin-top: 20px;">
-                        <div class="col-md-12 table-responsive table1">
+                        <div class="col-md-12 table-responsive table1" >
                   <table class="table table-bordered">
     <thead>
       <tr class="info table-heading">
         <th></th>
         <th></th>
-        <th>Status</th>
+        <th ng-click="sort('Status')">Status <span class="fa " ng-show="sortKey=='Status'"  ng-class="{'fa-sort-asc':reverse,'fa-sort-desc':!reverse}"></span></th>
           <th>Provider</th>
           <th>Reception Date</th>
-          <th>Subject</th>
+          <th ng-click="sort('Subject')">Subject<span class="fa " ng-show="sortKey=='Subject'"  ng-class="{'fa-sort-asc':reverse,'fa-sort-desc':!reverse}"></span> </th>
           <th>From Inbox</th>
-          <th>Reciever</th>
+          <th>Receiver</th>
           <th>Current User</th>
           <th>Comment</th>
       </tr>
     </thead>
                       <tbody>
-                          <tr ng-repeat="data in table" ng-class="$index%2==0 ? 'backgroundcolor2' : 'backgroundcolor1'">
+                          <tr ng-repeat="data in table |orderBy:sortKey:reverse" ng-class="$index%2==0 ? 'backgroundcolor2' : 'backgroundcolor1'">
                               <td><i class="fa fa-edit"></i></td>
                               <td>1</td>
                               <td>{{data.Status}}</td>
-                              <td>{{data.Provoder}}</td>
+                              <td>{{data.Provider}}</td>
                               <td>{{data.Reception_Date}}</td>
                               <td>{{data.Subject}}</td>
                               <td>{{data.From_Inbox}}</td>
-                              <td>{{data.Reciever}}</td>
+                              <td>{{data.Receiver}}</td>
                               <td>{{data.Current_User}}</td>
                               <td>{{data.Comment}}</td>
                           </tr>
